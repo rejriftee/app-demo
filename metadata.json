@@ -1,0 +1,7 @@
+{
+  "name": "NovaCalc: Futuristic AI Calculator",
+  "description": "A cutting-edge, glassmorphic scientific calculator powered by Gemini AI for complex problem solving and formula explanations. Features real-time graphing, calculation history, and a sleek neon-infused UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
